@@ -355,6 +355,3 @@ function resetForNextCycle() {
 
 
 
-
-=======
->>>>>>> 2460db6 (updated)
