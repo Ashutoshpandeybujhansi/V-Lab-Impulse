@@ -337,7 +337,7 @@ function resetForNextCycle() {
   // Skip Step 1 for next cycles → start at Step 2 header
   screen2Header.textContent = `Add ${50 * (currentCycle + 1)}gms weight on the weight pan.`;
 }
-
+}
 
 
 
